@@ -18,17 +18,3 @@ The dataset used in this analysis consists of [provide a brief description of th
 
 5. **Presentation Materials**: We provided Jupyter Notebook code snippets and explanations for each step of the analysis, making it easy to understand and replicate the results.
 
-## Usage
-
-To replicate the analysis, follow the Jupyter Notebook provided in this repository. Ensure you have the necessary Python libraries installed.
-
-```bash
-# Clone the repository
-git clone [repository URL]
-cd [repository directory]
-
-# Install required libraries (if not already installed)
-pip install -r requirements.txt
-
-# Open and run the Jupyter Notebook
-jupyter notebook
